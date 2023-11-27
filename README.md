@@ -27,3 +27,4 @@ npm run dev
 ```sh
 npm run build
 ```
+![Stock](https://github.com/rahmatshoh-1/VUE-StocksApi/assets/56288392/5a861a32-a51b-4d14-a0ff-dc4e9e678884)
